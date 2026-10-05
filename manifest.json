@@ -1,0 +1,241 @@
+{
+  "organisation": "Zib Digital",
+  "updated": "2026-10-06",
+  "base_url": "REPLACE_WITH_RAW_BASE_URL",
+  "how_to_build_url": "base_url + '/' + file",
+  "icons": {
+    "folder": "icons/",
+    "index": "icons/icon-index.csv",
+    "variants": {
+      "svg-badge": "teal circle badge, for slides",
+      "svg-white": "white glyph only, for dark backgrounds",
+      "svg-dark": "dark glyph only",
+      "png-badge": "badge as png",
+      "png-white": "white png",
+      "png-dark": "dark png"
+    }
+  },
+  "brief": "brief/zib-ai-brand-brief.md",
+  "tokens": "brief/zib-brand-tokens.json",
+  "logos": [
+    {
+      "id": "zib-favicon-1024",
+      "name": "zd. favicon / profile image",
+      "file": "logos/zib/zib-favicon-1024.png",
+      "type": "zib",
+      "suits_background": "any",
+      "usage": "Social profile pictures and website favicon. Square 1024px.",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "id": "zib-master-statement-black",
+      "name": "Master statement lockup",
+      "file": "logos/zib/zib-master-statement-black.png",
+      "type": "zib",
+      "suits_background": "light backgrounds",
+      "usage": "Closing slides and social. Wordmark with statement.",
+      "width": 1442,
+      "height": 788
+    },
+    {
+      "id": "zib-master-statement-white",
+      "name": "Master statement lockup",
+      "file": "logos/zib/zib-master-statement-white.png",
+      "type": "zib",
+      "suits_background": "dark backgrounds",
+      "usage": "Cover and closing slides on dark gradients.",
+      "width": 1442,
+      "height": 788
+    },
+    {
+      "id": "zib-monogram-black",
+      "name": "zd. monogram",
+      "file": "logos/zib/zib-monogram-black.png",
+      "type": "zib",
+      "suits_background": "light backgrounds",
+      "usage": "Small mark. Min width 64px.",
+      "width": 617,
+      "height": 351
+    },
+    {
+      "id": "zib-monogram-white",
+      "name": "zd. monogram",
+      "file": "logos/zib/zib-monogram-white.png",
+      "type": "zib",
+      "suits_background": "dark backgrounds",
+      "usage": "Right-edge strip on light slides and bottom right of section dividers. Min width 64px.",
+      "width": 617,
+      "height": 351
+    },
+    {
+      "id": "zib-tagline-black",
+      "name": "Wordmark with tagline",
+      "file": "logos/zib/zib-tagline-black.png",
+      "type": "zib",
+      "suits_background": "light backgrounds",
+      "usage": "Use where the tagline lockup is needed.",
+      "width": 1442,
+      "height": 433
+    },
+    {
+      "id": "zib-tagline-white",
+      "name": "Wordmark with tagline",
+      "file": "logos/zib/zib-tagline-white.png",
+      "type": "zib",
+      "suits_background": "dark backgrounds",
+      "usage": "Use where the tagline lockup is needed.",
+      "width": 1442,
+      "height": 433
+    },
+    {
+      "id": "zib-wordmark-black",
+      "name": "Zib Digital wordmark",
+      "file": "logos/zib/zib-wordmark-black.png",
+      "type": "zib",
+      "suits_background": "light backgrounds",
+      "usage": "Primary logo on white and light grey slides and documents. Min width 150px.",
+      "width": 1442,
+      "height": 300
+    },
+    {
+      "id": "zib-wordmark-white",
+      "name": "Zib Digital wordmark",
+      "file": "logos/zib/zib-wordmark-white.png",
+      "type": "zib",
+      "suits_background": "dark backgrounds",
+      "usage": "Bottom right of every dark slide (not section dividers). Min width 150px.",
+      "width": 1442,
+      "height": 300
+    },
+    {
+      "id": "claude-symbol",
+      "name": "Claude symbol",
+      "file": "logos/platforms/claude-symbol.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "id": "claude-wordmark",
+      "name": "Claude wordmark",
+      "file": "logos/platforms/claude-wordmark.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 800,
+      "height": 172
+    },
+    {
+      "id": "copilot-logo",
+      "name": "Microsoft Copilot",
+      "file": "logos/platforms/copilot-logo.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 563,
+      "height": 512
+    },
+    {
+      "id": "facebook-logo",
+      "name": "Facebook",
+      "file": "logos/platforms/facebook-logo.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "gemini-icon",
+      "name": "Gemini icon",
+      "file": "logos/platforms/gemini-icon.svg",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched."
+    },
+    {
+      "id": "gemini-logo",
+      "name": "Gemini logo",
+      "file": "logos/platforms/gemini-logo.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 500,
+      "height": 281
+    },
+    {
+      "id": "gemini-sparkle",
+      "name": "Gemini sparkle",
+      "file": "logos/platforms/gemini-sparkle.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 512,
+      "height": 512
+    },
+    {
+      "id": "google-ads-icon",
+      "name": "Google Ads icon",
+      "file": "logos/platforms/google-ads-icon.svg",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched."
+    },
+    {
+      "id": "google-ads-logo",
+      "name": "Google Ads",
+      "file": "logos/platforms/google-ads-logo.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 900,
+      "height": 1118
+    },
+    {
+      "id": "google-ads-logo",
+      "name": "Google Ads",
+      "file": "logos/platforms/google-ads-logo.svg",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched."
+    },
+    {
+      "id": "google-g",
+      "name": "Google G",
+      "file": "logos/platforms/google-g.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "instagram-logo",
+      "name": "Instagram",
+      "file": "logos/platforms/instagram-logo.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 800,
+      "height": 800
+    },
+    {
+      "id": "meta-logo",
+      "name": "Meta",
+      "file": "logos/platforms/meta-logo.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 573,
+      "height": 118
+    },
+    {
+      "id": "openai-chatgpt-symbol",
+      "name": "ChatGPT / OpenAI symbol",
+      "file": "logos/platforms/openai-chatgpt-symbol.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 716,
+      "height": 716
+    },
+    {
+      "id": "openai-wordmark",
+      "name": "OpenAI wordmark",
+      "file": "logos/platforms/openai-wordmark.png",
+      "type": "third-party",
+      "usage": "Official platform logo. Use unmodified, never in an icon circle, never recoloured or stretched.",
+      "width": 800,
+      "height": 358
+    }
+  ]
+}
