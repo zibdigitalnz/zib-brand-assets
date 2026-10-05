@@ -20,7 +20,7 @@ Official logos, icons and brand brief for Zib Digital. This repository is the so
 
 ## Fetching files
 Each file is available at a stable address:
-`https://raw.githubusercontent.com/zbidigitalnz/zib-brand-assets/main/<path>`
-Example: `https://raw.githubusercontent.com/zbidigitalnz/zib-brand-assets/main/logos/zib/zib-wordmark-white.png`. Every logo in `manifest.json` also has a ready-made `url`.
+`https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/<path>`
+Example: `https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/logos/zib/zib-wordmark-white.png`. Every logo in `manifest.json` also has a ready-made `url`.
 
 File names are stable. Update files by replacing them in place so links never break.

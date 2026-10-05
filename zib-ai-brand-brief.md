@@ -178,9 +178,9 @@ Icon rules: one icon per card, never decorative clutter, never mixed with third-
 
 ### Where to get the files
 
-Official logos, icons, this brief and the tokens file are hosted at https://github.com/zbidigitalnz/zib-brand-assets. Read `manifest.json` in that repository: it lists every logo with its direct URL, the background it suits (white versions for dark, black for light) and usage notes. Fetch logos from those URLs, or ask the person to attach the files if you cannot fetch links. Never recreate a logo.
+Official logos, icons, this brief and the tokens file are hosted at https://github.com/zibdigitalnz/zib-brand-assets. Read `manifest.json` in that repository: it lists every logo with its direct URL, the background it suits (white versions for dark, black for light) and usage notes. Fetch logos from those URLs, or ask the person to attach the files if you cannot fetch links. Never recreate a logo.
 
-Raw base address: https://raw.githubusercontent.com/zbidigitalnz/zib-brand-assets/main/
+Raw base address: https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/
 
 ### Platform and AI logos
 Official files only, on a white tile (light slides) with a hairline border. Paid media: Google Ads (stacked), Google G, Meta, Facebook, Instagram. AI search: ChatGPT (OpenAI symbol), Claude, Gemini, Copilot. Google AI Overviews has no standalone logo: write "AI Overviews" in Roboto Bold beside the Gemini sparkle. A logo names a platform and never implies partnership or endorsement. Use Meta logo for Meta Ads and the Google Ads logo for Google Ads.
