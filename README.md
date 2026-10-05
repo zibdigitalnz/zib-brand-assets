@@ -8,7 +8,7 @@ Official logos, icons and brand brief for Zib Digital. This repository is the so
 - `manifest.json` — every logo with its name, file path, background it suits and usage note.
 
 ## Folders
-- `logos/zib/` — Zib Digital logos (wordmark, monogram, master statement, tagline, favicon), black and white versions.
+- `logos/zib/` — Zib Digital logos (wordmark, monogram, master statement, descriptor lockup, favicon), black and white versions.
 - `logos/platforms/` — third-party platform logos (Google Ads, Meta, Facebook, Instagram, ChatGPT/OpenAI, Claude, Gemini, Copilot). Use unmodified.
 - `icons/` — the Zib icon library (110 icons) in badge, white and dark versions, SVG and PNG. See `icons/icon-index.csv`.
 
@@ -20,7 +20,7 @@ Official logos, icons and brand brief for Zib Digital. This repository is the so
 
 ## Fetching files
 Each file is available at a stable address:
-`https://raw.githubusercontent.com/<account>/<repo>/main/<path>`
-Example: `.../main/logos/zib/zib-wordmark-white.png`. Build addresses from `manifest.json` (`base_url` + `/` + `file`).
+`https://raw.githubusercontent.com/zbidigitalnz/zib-brand-assets/main/<path>`
+Example: `https://raw.githubusercontent.com/zbidigitalnz/zib-brand-assets/main/logos/zib/zib-wordmark-white.png`. Every logo in `manifest.json` also has a ready-made `url`.
 
 File names are stable. Update files by replacing them in place so links never break.
