@@ -1,0 +1,288 @@
+{
+  "version": "1.0",
+  "canvas": {
+    "width": 1920,
+    "height": 1080,
+    "unit": "px",
+    "googleSlidesPt": [
+      960,
+      540
+    ]
+  },
+  "fonts": {
+    "slides": "Roboto",
+    "designerSocialPrint": "Neue Haas Grotesk Display Pro"
+  },
+  "colors": {
+    "white": "#FFFFFF",
+    "black": "#000000",
+    "teal": "#12C7D3",
+    "tealDark": "#006F73",
+    "midnight": "#081326",
+    "deepSlate": "#0E2A4A",
+    "corporateNavy": "#1B365D",
+    "steel": "#3B5575",
+    "coolSlate": "#738A9C",
+    "softIce": "#9BB0C1",
+    "cardGrey": "#F2F5F7",
+    "hairline": "#E3EAEE",
+    "darkCard": "#06262C"
+  },
+  "status": {
+    "onTrack": "#12C7D3",
+    "watch": "#F2A900",
+    "offTrack": "#E5484D",
+    "scope": "charts, scorecards and key stats only"
+  },
+  "chartSeriesOrder": [
+    "#12C7D3",
+    "#081326",
+    "#738A9C",
+    "#006F73",
+    "#9BB0C1"
+  ],
+  "benchmarkColor": "#9BB0C1",
+  "gridline": "#E3EAEE",
+  "gradients": {
+    "tealNight": [
+      "#0E6A7C",
+      "#0A4651",
+      "#05252B",
+      "#000202"
+    ],
+    "deepTeal": [
+      "#0B7C80",
+      "#06494C",
+      "#032A2C",
+      "#000202"
+    ],
+    "ocean": [
+      "#17708F",
+      "#0E4259",
+      "#07222F",
+      "#000306"
+    ],
+    "slate": [
+      "#3A566E",
+      "#263A4C",
+      "#131F2A",
+      "#020406"
+    ],
+    "midnight": [
+      "#14406C",
+      "#0C2845",
+      "#07152A",
+      "#01040A"
+    ],
+    "stops": [
+      0,
+      25,
+      55,
+      100
+    ],
+    "angle": 45,
+    "strip": {
+      "angle": 0,
+      "colors": [
+        "#0E6A7C",
+        "#05252B",
+        "#000202"
+      ],
+      "stops": [
+        0,
+        55,
+        100
+      ]
+    },
+    "sampled": [
+      "tealNight"
+    ]
+  },
+  "type": {
+    "eyebrow": {
+      "weight": 700,
+      "px": 24,
+      "letterSpacing": 5,
+      "case": "upper"
+    },
+    "headline": {
+      "weight": 700,
+      "px": [
+        56,
+        72
+      ],
+      "case": "title"
+    },
+    "cardHeader": {
+      "weight": 700,
+      "px": [
+        30,
+        36
+      ],
+      "case": "title"
+    },
+    "body": {
+      "weight": 400,
+      "px": [
+        26,
+        28
+      ],
+      "lineHeight": [
+        1.25,
+        1.35
+      ],
+      "case": "sentence"
+    },
+    "heroStat": {
+      "weight": 700,
+      "px": [
+        108,
+        144
+      ]
+    },
+    "kpiNumber": {
+      "weight": 700,
+      "px": 56
+    },
+    "footer": {
+      "weight": 400,
+      "px": 24
+    },
+    "minPx": 24
+  },
+  "layout": {
+    "margins": {
+      "top": 128,
+      "left": 128,
+      "bottom": 160,
+      "rightLight": 176,
+      "rightDark": 128
+    },
+    "strip": {
+      "width": 96,
+      "monogram": [
+        64,
+        40
+      ],
+      "monogramRight": 16,
+      "monogramBottom": 56
+    },
+    "darkWordmark": {
+      "width": 150,
+      "height": 32,
+      "right": 128,
+      "bottom": 56
+    },
+    "radius": {
+      "card": 28,
+      "container": 32,
+      "tile": [
+        20,
+        24
+      ]
+    },
+    "gap": {
+      "cards": 24,
+      "headerToBody": [
+        32,
+        48
+      ]
+    },
+    "iconBadge": {
+      "circle": 88,
+      "glyph": 48,
+      "fill": "#12C7D3"
+    }
+  },
+  "modes": {
+    "lightA": {
+      "page": "#FFFFFF",
+      "card": "#F2F5F7"
+    },
+    "lightB": {
+      "page": "#F2F5F7",
+      "card": "#FFFFFF",
+      "cardBorder": "#E3EAEE"
+    },
+    "dark": {
+      "page": "gradient",
+      "card": "#06262C",
+      "cardBorder": "#12C7D3"
+    }
+  },
+  "textColors": {
+    "onLight": {
+      "eyebrow": "#006F73",
+      "headline": "#081326",
+      "body": "#3B5575",
+      "muted": "#738A9C"
+    },
+    "onDark": {
+      "eyebrow": "#12C7D3",
+      "headline": "#FFFFFF",
+      "body": "#FFFFFF",
+      "muted": "#9BB0C1"
+    }
+  },
+  "rules": {
+    "headlineCase": "Sentence case",
+    "bodyCase": "sentence case",
+    "english": "NZ",
+    "currency": "NZ$",
+    "logoClearSpace": "width of the dot",
+    "minWordmarkPx": 150,
+    "minMonogramPx": 64,
+    "pricing": "All prices excluding GST. Write 'excluding GST' or 'excl GST' beside every price."
+  },
+  "social": {
+    "post": [
+      1080,
+      1350
+    ],
+    "story": [
+      1080,
+      1920
+    ],
+    "linkedin": {
+      "profile": [
+        400,
+        400
+      ],
+      "cover": [
+        1128,
+        191
+      ]
+    },
+    "facebook": {
+      "profile": [
+        320,
+        320
+      ],
+      "cover": [
+        1640,
+        624
+      ]
+    },
+    "instagram": {
+      "profile": [
+        320,
+        320
+      ]
+    },
+    "youtube": {
+      "profile": [
+        800,
+        800
+      ],
+      "banner": [
+        2560,
+        1440
+      ],
+      "thumbnail": [
+        1280,
+        720
+      ]
+    },
+    "checkedYear": 2025
+  }
+}
