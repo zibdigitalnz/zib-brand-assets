@@ -9,7 +9,7 @@ Version 1.0. Source of truth for the human version is the Zib Digital Brand Guid
 ## 1. Hard rules (never break these)
 
 1. Presentations use **Roboto only**. Never Calibri, Arial or any other font in slides. (Designer-made social posts and print may use Neue Haas Grotesk Display Pro.)
-2. **Headlines are Title Case.** Every Major Word Capitalised. No full stop. Never lowercase or all-caps headlines. The lowercase style exists only inside the logo.
+2. **Headlines are sentence case.** Capitalise the first word only, plus brand and proper names (Zib Digital, Google Ads, Meta, SEO, AI, KPIs, people, places). Job titles and role names (Growth Partner, SEO Specialist, General Manager) stay capitalised. Hyphenated words follow the same rule. Examples: "Ways of working", "Reviews and reputation", "Cost per click", "Click-through rate", "Google Ads: from setup to launch". No full stop (except on dividers). Never all-caps headlines. The lowercase style exists only inside the logo.
 3. **Body copy is sentence case** and plain English.
 4. **Black is #000000.** White is #FFFFFF. Never use off-black or off-white as a substitute for these brand colours.
 5. Use **only palette colours** (section 3). Amber and Coral are status colours for charts, scorecards and key stats only.
@@ -79,8 +79,8 @@ Slide canvas is 1920 × 1080 px (Google Slides 960 × 540 pt; 1 pt = 2 px).
 | Role | Weight | pt | px at 1920 | Case | Colour on light | Colour on dark |
 |---|---|---|---|---|---|---|
 | Eyebrow | Bold, letter-spacing 5px | 11-12 | 24 | UPPERCASE | #006F73 | #12C7D3 |
-| Slide headline | Bold | 30-36 | 56-72 | Title Case | #081326 | #FFFFFF |
-| Card header | Bold | 15-16 | 30-36 | Title Case | #081326 | #12C7D3 |
+| Slide headline | Bold | 30-36 | 56-72 | Sentence case | #081326 | #FFFFFF |
+| Card header | Bold | 15-16 | 30-36 | Sentence case | #081326 | #12C7D3 |
 | Body | Regular, line-height 1.25-1.35 | 12-13 | 26-28 | Sentence case | #3B5575 | #FFFFFF or #9BB0C1 |
 | Hero stat | Bold | 54-72 (up to 120px on dark hero card) | 108-144 | n/a | #006F73 | #12C7D3 or #FFFFFF |
 | KPI number | Bold | 28 | 56 | n/a | #006F73 | #12C7D3 |
@@ -150,15 +150,15 @@ Mode abbreviations: **L-A** light white page, **L-B** light grey page, **D** dar
 
 Style: custom line art on a 24px grid, 1.75px stroke, round caps and joins, white glyph on an 88px Bright Teal circle (badge), or Bright Teal glyph on dark (dark), or white glyph alone (white). Use the file name below. Files: `svg-badge/`, `svg-dark/`, `svg-white/` and `png-*` versions in the icon library zip. If an icon is missing, pick the closest by name. Do not draw new ones.
 
-- **Services And Channels:** seo, google-ads, meta-ads, social-media, local-listings, content, keywords, analytics, conversion, remarketing, website, email
-- **Metrics And Process:** budget, growth, audience, ai, reporting, strategy, setup, speed, reviews, trust, backlinks, timeline
-- **Competitors And Market:** benchmark, market-share, versus, rankings, winner, insights, compare, matrix, market, positioning, gap, balance
-- **Brand And USP:** usp, idea, award, values, palette, quote, direction, launch, premium, voice, story, messaging
-- **Success And KPIs:** kpi, roi, leads, clicks, reach, cost, rate, calls, bookings, goal-hit, checklist, revenue
-- **Trust And Proof:** privacy, verified, testimonial, approval, support, contract, experience, case-study, guarantee, team, partnership, security
-- **Business And Industry:** company, retail, services, e-commerce, product, property, health, trades, online, invoice, regions, finance
-- **Creative And Social:** ad-creative, video, photo, hashtag, chat, mobile, play, pin, alerts, influencer, copywriting, audio
-- **Tech And Optimisation:** ab-test, landing-page, workflow, crm, dashboard, heatmap, code, sitemap, ai-assistant, audit, search-bar, integrations
+- **Services and Channels:** seo, google-ads, meta-ads, social-media, local-listings, content, keywords, analytics, conversion, remarketing, website, email
+- **Metrics and Process:** budget, growth, audience, ai, reporting, strategy, setup, speed, reviews, trust, backlinks, timeline
+- **Competitors and Market:** benchmark, market-share, versus, rankings, winner, insights, compare, matrix, market, positioning, gap, balance
+- **Brand and USP:** usp, idea, award, values, palette, quote, direction, launch, premium, voice, story, messaging
+- **Success and KPIs:** kpi, roi, leads, clicks, reach, cost, rate, calls, bookings, goal-hit, checklist, revenue
+- **Trust and Proof:** privacy, verified, testimonial, approval, support, contract, experience, case-study, guarantee, team, partnership, security
+- **Business and Industry:** company, retail, services, e-commerce, product, property, health, trades, online, invoice, regions, finance
+- **Creative and Social:** ad-creative, video, photo, hashtag, chat, mobile, play, pin, alerts, influencer, copywriting, audio
+- **Tech and Optimisation:** ab-test, landing-page, workflow, crm, dashboard, heatmap, code, sitemap, ai-assistant, audit, search-bar, integrations
 - **Status:** check, cross
 
 Icon rules: one icon per card, never decorative clutter, never mixed with third-party logos in the same badge, same badge size across a slide.
@@ -170,10 +170,28 @@ Icon rules: one icon per card, never decorative clutter, never mixed with third-
 - **Primary wordmark** "zib digital." Default for footers and everyday use. White version on dark, black on light.
 - **Monogram "zd."** For avatars, favicons, the light-slide strip and compact spaces.
 - **Master statement** wordmark plus "powered by people. accelerated by ai." For covers and brand moments.
-- **Descriptor lockup** "digital marketing specialist" for closing slides and signage.
+- **Descriptor lockup** wordmark plus "marketing specialists" for closing slides and signage.
 - The **teal full stop** is the brand signature: always Bright Teal #12C7D3, never recoloured.
 - **Clear space:** the width of the dot on every side. **Minimum size:** wordmark 150px wide on a 1920 slide, monogram 64px.
 - Never stretch, rotate, add effects, outline, or place on busy imagery.
+- **Favicon / profile image:** the zd. square (1024px) for social profile pictures and the website favicon.
+
+### Where to get the files
+
+Official logos, icons, this brief and the tokens file are hosted at https://github.com/zibdigitalnz/zib-brand-assets. Read `manifest.json` in that repository: it lists every logo with its direct URL, the background it suits (white versions for dark, black for light) and usage notes. Never recreate a logo.
+
+### Logo rule: always include the real logo
+
+Every deck, slide and post must carry the real Zib Digital logo. Work down this list until one step succeeds:
+
+1. **Attached files.** Use the logo files the person attached. This is the most reliable route.
+2. **Direct links.** Fetch the logo from the URL in `manifest.json`.
+3. **Inline logo pack.** If you cannot load images from links (some tools block external image URLs), use the data URIs in `brief/zib-logos-inline.md` (raw: https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/brief/zib-logos-inline.md). Paste a data URI into the `src` of an `<img>` tag when you are producing HTML.
+4. **Labelled placeholder.** If none of the above works, leave a clearly labelled box such as `[ZIB LOGO HERE: wordmark, white]` in the exact position and size the layout calls for. Never leave the space empty, never type the name as plain text instead, and never draw or approximate the logo. Tell the person in the first line of your reply that the logo needs adding, and list it under your assumptions.
+
+A tool's own image rules do not change this. If your instructions stop you loading the logo, say so and use step 4 rather than dropping it silently.
+
+Raw base address: https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/
 
 ### Platform and AI logos
 Official files only, on a white tile (light slides) with a hairline border. Paid media: Google Ads (stacked), Google G, Meta, Facebook, Instagram. AI search: ChatGPT (OpenAI symbol), Claude, Gemini, Copilot. Google AI Overviews has no standalone logo: write "AI Overviews" in Roboto Bold beside the Gemini sparkle. A logo names a platform and never implies partnership or endorsement. Use Meta logo for Meta Ads and the Google Ads logo for Google Ads.
@@ -232,7 +250,7 @@ Format numbers: NZ$1,250. 20.2%. 1 in 222. Dates 13 August 2026. Say "enquiries"
 
 - **Profile image:** zd. monogram, light avatar on white or dark avatar on Teal Night. Square, centred, safe inside a circle crop.
 - **Cover images:** Teal Night gradient with the white master statement on the left. Key content in the centre 80%.
-- **Posts:** 1080 × 1350 (4:5). Headline Title Case, ten words at most, one idea and one call to action, wordmark bottom left, 8% margin. Templates: stat post on Teal Night, tip post on grey, photo post with a Midnight caption panel (photo above, never behind text).
+- **Posts:** 1080 × 1350 (4:5). Headline in sentence case, ten words at most, one idea and one call to action, wordmark bottom left, 8% margin. Templates: stat post on Teal Night, tip post on grey, photo post with a Midnight caption panel (photo above, never behind text).
 - **Fonts:** Neue Haas Grotesk Display Pro Bold for designer-built posts. Roboto Bold in Canva, Google Slides or AI tools.
 - **Sizes (px, check yearly):** LinkedIn profile 400 × 400, cover 1128 × 191. Facebook profile 320 × 320, cover 1640 × 624. Instagram profile 320 × 320, feed 1080 × 1350, story 1080 × 1920. YouTube profile 800 × 800, banner 2560 × 1440, thumbnail 1280 × 720.
 
@@ -241,31 +259,31 @@ Format numbers: NZ$1,250. 20.2%. 1 in 222. Dates 13 August 2026. Say "enquiries"
 ## 13. Ready-to-paste prompts
 
 ### A. Build a deck
-> You are Zib Digital's presentation designer. Follow the Zib Digital AI Brand Brief exactly. Build a [proposal / audit / client performance report] for [Client Name]. Audience: [who]. Use these slide recipes in order: [list recipe names]. Light slides alternate between Mode A and Mode B. Use dark slides for the cover, dividers and investment slide. Use Roboto, Title Case headlines, sentence case body, NZ English. Use only the supplied content. Where data is missing insert [placeholders], never invent numbers. Choose icons by name from the icon index. Output: [Google Slides / HTML slides / PowerPoint]. Finish by running the QA checklist and listing anything you assumed.
+> You are Zib Digital's presentation designer. Follow the Zib Digital AI Brand Brief exactly. Build a [proposal / audit / client performance report] for [Client Name]. Audience: [who]. Use these slide recipes in order: [list recipe names]. Light slides alternate between Mode A and Mode B. Use dark slides for the cover, dividers and investment slide. Use Roboto, sentence case headlines, sentence case body, NZ English. Use only the supplied content. Where data is missing insert [placeholders], never invent numbers. Choose icons by name from the icon index. Output: [Google Slides / HTML slides / PowerPoint]. Finish by running the QA checklist and listing anything you assumed. Place the real Zib Digital logo using the logo rule in section 8; if you cannot load it, leave a labelled placeholder box and tell me.
 
 ### B. One slide
-> Using the Zib Digital AI Brand Brief, create one [recipe name] slide in Mode [A/B]. Content: [paste]. Respect the word limits for this recipe. Return the slide only, then a one line list of assumptions.
+> Using the Zib Digital AI Brand Brief, create one [recipe name] slide in Mode [A/B]. Content: [paste]. Respect the word limits for this recipe. Return the slide only, then a one line list of assumptions. Place the real Zib Digital logo using the logo rule in section 8; if you cannot load it, leave a labelled placeholder box and tell me.
 
 ### C. Chart or scorecard for Google Sheets
 > Using section 10 of the Zib Digital AI Brand Brief, tell me how to build a [line chart / bar chart / donut / scorecard] in Google Sheets from this data: [paste]. Give the chart type, series order, hex colours, axis and label settings, the takeaway sentence, and the slide it belongs on.
 
 ### D. Rebrand an existing deck
-> Rebrand the attached deck into the Zib Digital 2026 look using the AI Brand Brief. Keep the content and order. Map each slide to the nearest recipe. Replace every off-palette colour, change all fonts to Roboto, convert headlines to Title Case, add the right-edge strip (light) or wordmark (dark), swap icons for library icons, replace charts using the chart rules. List anything you changed or could not change.
+> Rebrand the attached deck into the Zib Digital 2026 look using the AI Brand Brief. Keep the content and order. Map each slide to the nearest recipe. Replace every off-palette colour, change all fonts to Roboto, convert headlines to sentence case, add the right-edge strip (light) or wordmark (dark), swap icons for library icons, replace charts using the chart rules. List anything you changed or could not change. Place the real Zib Digital logo using the logo rule in section 8; if you cannot load it, leave a labelled placeholder box and tell me.
 
 ### E. Social post
-> Using sections 3, 9, 11 and 12 of the Zib Digital AI Brand Brief, create a [stat / tip / photo] post for [platform]. Message: [one idea]. Give the headline (Title Case, 10 words max), supporting line, call to action, caption in Zib's voice, size, and which template and gradient to use.
+> Using sections 3, 9, 11 and 12 of the Zib Digital AI Brand Brief, create a [stat / tip / photo] post for [platform]. Message: [one idea]. Give the headline (sentence case, 10 words max), supporting line, call to action, caption in Zib's voice, size, and which template and gradient to use.
 
 ---
 
 ## 14. QA checklist (run before delivering anything)
 
 - [ ] Roboto only in slides. Nothing under 24px (12pt).
-- [ ] Every headline Title Case, no full stops. Body sentence case.
+- [ ] Every headline sentence case (first word and proper names capitalised), no full stops. Body sentence case.
 - [ ] Only palette colours. Black is #000000. Status colours only in charts and stats.
 - [ ] Each light slide is one mode. Strip and monogram present on light, wordmark on dark.
 - [ ] One gradient per deck.
 - [ ] Icons are library names, same size on a slide, one per card.
-- [ ] Official logos only, unaltered, on white tiles.
+- [ ] The real Zib Digital logo is on the slide (or a labelled placeholder is flagged), unaltered. Partner logos sit on white tiles.
 - [ ] Photos are official, untinted, with no text over them.
 - [ ] No invented numbers, quotes or names. Placeholders marked.
 - [ ] Every chart has units, period and a takeaway sentence.

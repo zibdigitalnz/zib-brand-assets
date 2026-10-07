@@ -1,6 +1,6 @@
 {
   "organisation": "Zib Digital",
-  "updated": "2026-10-06",
+  "updated": "2026-10-07",
   "base_url": "https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main",
   "how_to_build_url": "base_url + '/' + file",
   "icons": {
@@ -265,5 +265,8 @@
   ],
   "repository": "https://github.com/zibdigitalnz/zib-brand-assets",
   "brief_url": "https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/brief/zib-ai-brand-brief.md",
-  "tokens_url": "https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/brief/zib-brand-tokens.json"
+  "tokens_url": "https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/brief/zib-brand-tokens.json",
+  "logo_rule": "Every output must carry the real Zib Digital logo. Order of preference: 1) logo files the person attached, 2) the url of the logo below, 3) the embedded copies in inline_logos_url if image links are blocked, 4) a clearly labelled placeholder box such as [ZIB LOGO HERE: wordmark, white], flagged to the person. Never skip the logo silently, type the name as text, or redraw it.",
+  "inline_logos": "brief/zib-logos-inline.md",
+  "inline_logos_url": "https://raw.githubusercontent.com/zibdigitalnz/zib-brand-assets/main/brief/zib-logos-inline.md"
 }

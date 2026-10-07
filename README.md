@@ -5,6 +5,7 @@ Official logos, icons and brand brief for Zib Digital. This repository is the so
 ## Start here
 - `brief/zib-ai-brand-brief.md` — the full AI brand brief. Read this first.
 - `brief/zib-brand-tokens.json` — colours, type, layout and rules as data.
+- `brief/zib-logos-inline.md` — small embedded copies of the wordmark and monogram, for AI tools that block external image links.
 - `manifest.json` — every logo with its name, file path, background it suits and usage note.
 
 ## Folders

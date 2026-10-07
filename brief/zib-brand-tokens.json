@@ -225,14 +225,16 @@
     }
   },
   "rules": {
-    "headlineCase": "Title Case",
+    "headlineCase": "Sentence case",
     "bodyCase": "sentence case",
     "english": "NZ",
     "currency": "NZ$",
     "logoClearSpace": "width of the dot",
     "minWordmarkPx": 150,
     "minMonogramPx": 64,
-    "pricing": "All prices excluding GST. Write 'excluding GST' or 'excl GST' beside every price."
+    "pricing": "All prices excluding GST. Write 'excluding GST' or 'excl GST' beside every price.",
+    "roleTitles": "Job titles and role names stay capitalised (Growth Partner, SEO Specialist, General Manager).",
+    "logo": "Every output carries the real Zib Digital logo. Order: 1) attached files, 2) manifest.json url, 3) embedded copies in brief/zib-logos-inline.md, 4) labelled placeholder box flagged to the person. Never skip silently, type the name as text, or redraw."
   },
   "social": {
     "post": [
