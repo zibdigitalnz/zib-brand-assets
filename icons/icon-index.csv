@@ -1,111 +1,111 @@
 category,file_name,label
-Services And Channels,seo,SEO
-Services And Channels,google-ads,Google Ads
-Services And Channels,meta-ads,Meta Ads
-Services And Channels,social-media,Social Media
-Services And Channels,local-listings,Local Listings
-Services And Channels,content,Content
-Services And Channels,keywords,Keywords
-Services And Channels,analytics,Analytics
-Services And Channels,conversion,Conversion
-Services And Channels,remarketing,Remarketing
-Services And Channels,website,Website
-Services And Channels,email,Email
-Metrics And Process,budget,Budget
-Metrics And Process,growth,Growth
-Metrics And Process,audience,Audience
-Metrics And Process,ai,AI
-Metrics And Process,reporting,Reporting
-Metrics And Process,strategy,Strategy
-Metrics And Process,setup,Setup
-Metrics And Process,speed,Speed
-Metrics And Process,reviews,Reviews
-Metrics And Process,trust,Trust
-Metrics And Process,backlinks,Backlinks
-Metrics And Process,timeline,Timeline
-Competitors And Market,benchmark,Benchmark
-Competitors And Market,market-share,Market Share
-Competitors And Market,versus,Versus
-Competitors And Market,rankings,Rankings
-Competitors And Market,winner,Winner
-Competitors And Market,insights,Insights
-Competitors And Market,compare,Compare
-Competitors And Market,matrix,Matrix
-Competitors And Market,market,Market
-Competitors And Market,positioning,Positioning
-Competitors And Market,gap,Gap
-Competitors And Market,balance,Balance
-Brand And USP,usp,USP
-Brand And USP,idea,Idea
-Brand And USP,award,Award
-Brand And USP,values,Values
-Brand And USP,palette,Palette
-Brand And USP,quote,Quote
-Brand And USP,direction,Direction
-Brand And USP,launch,Launch
-Brand And USP,premium,Premium
-Brand And USP,voice,Voice
-Brand And USP,story,Story
-Brand And USP,messaging,Messaging
-Success And KPIs,kpi,KPI
-Success And KPIs,roi,ROI
-Success And KPIs,leads,Leads
-Success And KPIs,clicks,Clicks
-Success And KPIs,reach,Reach
-Success And KPIs,cost,Cost
-Success And KPIs,rate,Rate
-Success And KPIs,calls,Calls
-Success And KPIs,bookings,Bookings
-Success And KPIs,goal-hit,Goal Hit
-Success And KPIs,checklist,Checklist
-Success And KPIs,revenue,Revenue
-Trust And Proof,privacy,Privacy
-Trust And Proof,verified,Verified
-Trust And Proof,testimonial,Testimonial
-Trust And Proof,approval,Approval
-Trust And Proof,support,Support
-Trust And Proof,contract,Contract
-Trust And Proof,experience,Experience
-Trust And Proof,case-study,Case Study
-Trust And Proof,guarantee,Guarantee
-Trust And Proof,team,Team
-Trust And Proof,partnership,Partnership
-Trust And Proof,security,Security
-Business And Industry,company,Company
-Business And Industry,retail,Retail
-Business And Industry,services,Services
-Business And Industry,e-commerce,E-commerce
-Business And Industry,product,Product
-Business And Industry,property,Property
-Business And Industry,health,Health
-Business And Industry,trades,Trades
-Business And Industry,online,Online
-Business And Industry,invoice,Invoice
-Business And Industry,regions,Regions
-Business And Industry,finance,Finance
-Creative And Social,ad-creative,Ad Creative
-Creative And Social,video,Video
-Creative And Social,photo,Photo
-Creative And Social,hashtag,Hashtag
-Creative And Social,chat,Chat
-Creative And Social,mobile,Mobile
-Creative And Social,play,Play
-Creative And Social,pin,Pin
-Creative And Social,alerts,Alerts
-Creative And Social,influencer,Influencer
-Creative And Social,copywriting,Copywriting
-Creative And Social,audio,Audio
-Tech And Optimisation,ab-test,A/B Test
-Tech And Optimisation,landing-page,Landing Page
-Tech And Optimisation,workflow,Workflow
-Tech And Optimisation,crm,CRM
-Tech And Optimisation,dashboard,Dashboard
-Tech And Optimisation,heatmap,Heatmap
-Tech And Optimisation,code,Code
-Tech And Optimisation,sitemap,Sitemap
-Tech And Optimisation,ai-assistant,AI Assistant
-Tech And Optimisation,audit,Audit
-Tech And Optimisation,search-bar,Search Bar
-Tech And Optimisation,integrations,Integrations
+Services and channels,seo,SEO
+Services and channels,google-ads,Google Ads
+Services and channels,meta-ads,Meta Ads
+Services and channels,social-media,Social media
+Services and channels,local-listings,Local listings
+Services and channels,content,Content
+Services and channels,keywords,Keywords
+Services and channels,analytics,Analytics
+Services and channels,conversion,Conversion
+Services and channels,remarketing,Remarketing
+Services and channels,website,Website
+Services and channels,email,Email
+Metrics and process,budget,Budget
+Metrics and process,growth,Growth
+Metrics and process,audience,Audience
+Metrics and process,ai,AI
+Metrics and process,reporting,Reporting
+Metrics and process,strategy,Strategy
+Metrics and process,setup,Setup
+Metrics and process,speed,Speed
+Metrics and process,reviews,Reviews
+Metrics and process,trust,Trust
+Metrics and process,backlinks,Backlinks
+Metrics and process,timeline,Timeline
+Competitors and market,benchmark,Benchmark
+Competitors and market,market-share,Market share
+Competitors and market,versus,Versus
+Competitors and market,rankings,Rankings
+Competitors and market,winner,Winner
+Competitors and market,insights,Insights
+Competitors and market,compare,Compare
+Competitors and market,matrix,Matrix
+Competitors and market,market,Market
+Competitors and market,positioning,Positioning
+Competitors and market,gap,Gap
+Competitors and market,balance,Balance
+Brand and USP,usp,USP
+Brand and USP,idea,Idea
+Brand and USP,award,Award
+Brand and USP,values,Values
+Brand and USP,palette,Palette
+Brand and USP,quote,Quote
+Brand and USP,direction,Direction
+Brand and USP,launch,Launch
+Brand and USP,premium,Premium
+Brand and USP,voice,Voice
+Brand and USP,story,Story
+Brand and USP,messaging,Messaging
+Success and KPIs,kpi,KPI
+Success and KPIs,roi,ROI
+Success and KPIs,leads,Leads
+Success and KPIs,clicks,Clicks
+Success and KPIs,reach,Reach
+Success and KPIs,cost,Cost
+Success and KPIs,rate,Rate
+Success and KPIs,calls,Calls
+Success and KPIs,bookings,Bookings
+Success and KPIs,goal-hit,Goal hit
+Success and KPIs,checklist,Checklist
+Success and KPIs,revenue,Revenue
+Trust and proof,privacy,Privacy
+Trust and proof,verified,Verified
+Trust and proof,testimonial,Testimonial
+Trust and proof,approval,Approval
+Trust and proof,support,Support
+Trust and proof,contract,Contract
+Trust and proof,experience,Experience
+Trust and proof,case-study,Case study
+Trust and proof,guarantee,Guarantee
+Trust and proof,team,Team
+Trust and proof,partnership,Partnership
+Trust and proof,security,Security
+Business and industry,company,Company
+Business and industry,retail,Retail
+Business and industry,services,Services
+Business and industry,e-commerce,E-commerce
+Business and industry,product,Product
+Business and industry,property,Property
+Business and industry,health,Health
+Business and industry,trades,Trades
+Business and industry,online,Online
+Business and industry,invoice,Invoice
+Business and industry,regions,Regions
+Business and industry,finance,Finance
+Creative and social,ad-creative,Ad creative
+Creative and social,video,Video
+Creative and social,photo,Photo
+Creative and social,hashtag,Hashtag
+Creative and social,chat,Chat
+Creative and social,mobile,Mobile
+Creative and social,play,Play
+Creative and social,pin,Pin
+Creative and social,alerts,Alerts
+Creative and social,influencer,Influencer
+Creative and social,copywriting,Copywriting
+Creative and social,audio,Audio
+Tech and optimisation,ab-test,A/B test
+Tech and optimisation,landing-page,Landing page
+Tech and optimisation,workflow,Workflow
+Tech and optimisation,crm,CRM
+Tech and optimisation,dashboard,Dashboard
+Tech and optimisation,heatmap,Heatmap
+Tech and optimisation,code,Code
+Tech and optimisation,sitemap,Sitemap
+Tech and optimisation,ai-assistant,AI assistant
+Tech and optimisation,audit,Audit
+Tech and optimisation,search-bar,Search bar
+Tech and optimisation,integrations,Integrations
 Status,check,Check
 Status,cross,Cross
